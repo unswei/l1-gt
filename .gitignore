@@ -1,0 +1,7 @@
+**/*.f3d.lock
+**/*.f3z.lock
+**/*_autosave*
+**/*.bak
+**/*.tmp
+.DS_Store
+.saves
