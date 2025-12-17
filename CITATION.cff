@@ -9,8 +9,8 @@ authors:
     affiliation: "School of Computer Science and Engineering, UNSW, Sydney NSW 2052"
     orcid: https://orcid.org/0000-0002-8284-2062
 
-repository-code: https://github.com/unsw-eicrl/l1-gt
-url: https://github.com/unsw-eicrl/l1-gt
+repository-code: https://github.com/unswei/l1-gt
+url: https://github.com/unswei/l1-gt
 
 license: CERN-OHL-W-2.0
 keywords:
